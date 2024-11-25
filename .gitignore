@@ -1,0 +1,4 @@
+results/
+*.tmp
+data/*
+!data/metadata.txt
